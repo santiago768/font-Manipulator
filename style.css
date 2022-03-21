@@ -1,0 +1,28 @@
+.heading{
+    font-size: 25px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray ;
+    width: 100%;
+}
+.NOTE{
+    font-size: 15px;
+    color: black;
+}
+.footer{
+    bottom: 0;
+    position: fixed;
+    background-color: rgb(146, 238, 238);
+    width: 100%;
+    line-height: 3;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-left: 100px;
+    
+}
+video{
+    margin-top: 200px;
+    margin-left: 100px;
+}
